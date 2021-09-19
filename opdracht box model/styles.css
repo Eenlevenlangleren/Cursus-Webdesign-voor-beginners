@@ -1,0 +1,29 @@
+
+h1,
+h2,
+footer,
+.font-size {
+  font-size: 15px;
+}
+
+header, main{ border: 10px solid #13b5dd; 
+padding: 5px;}
+
+main{margin: auto; width: max-content;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    float: left;
+  }
+  
+  a {
+    display: in-line;
+    padding: 8px;
+  }
+  .ul{display: inline;}
+
+</style> 
