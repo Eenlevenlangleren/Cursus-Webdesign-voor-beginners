@@ -1,0 +1,26 @@
+body {
+  border: 15px;
+  margin: 10px;
+  background-color: rgb(238, 24, 174);
+  color: blue;
+  font-size: medium;
+  line-height: normal;
+}
+
+@media screen (min-width: 320px) {
+  border: 10px solid #13b5dd;
+}
+
+@media screen (min-width: 320px) {
+  margin: auto;
+  width: max-content;
+}
+
+@media screen (min-width: 1024px) {
+  body {
+    background-color: green;
+    color: red;
+    font-size: small;
+    line-height: 15px;
+  }
+}
