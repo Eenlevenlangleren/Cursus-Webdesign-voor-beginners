@@ -28,3 +28,5 @@ console.log(55);
 
 let name = "vijfenvijftig";
 console.log(vijfenvijftig);
+// Opdracht nogmaals gedaan. Begrijp nu dat if reserved keyword is. Verkeerd overgenomen. Dat type of operator iets zegt over de primitive datatypes. 
+Null, Boelean, Number, String or Undefined. Blij dat ik nog een keer opnieuw ben begonnen met dit hoofdstuk. 
