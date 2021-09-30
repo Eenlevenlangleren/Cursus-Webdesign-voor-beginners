@@ -30,3 +30,4 @@ let name = "vijfenvijftig";
 console.log(vijfenvijftig);
 // Opdracht nogmaals gedaan. Begrijp nu dat if reserved keyword is. Verkeerd overgenomen. Dat type of operator iets zegt over de primitive datatypes. 
 Null, Boelean, Number, String or Undefined. Blij dat ik nog een keer opnieuw ben begonnen met dit hoofdstuk. 
+Volgens mij hoef je niet altijd een variabele aan te maken voor je een rekensom naar de console logt. Zijn toch ook gevallen waarbij je de data niet hoeft op te slaan?
