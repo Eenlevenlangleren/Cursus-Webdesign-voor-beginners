@@ -1,3 +1,11 @@
+
+
+Kwam in de war met parameters en arguments en variabelen
+Benieuwd hoe jullie dit doen? Dit vond ik het lastigste onderwerp. Heb het vanochtend weer een keer herhaalt en ga dat de komende dagen weer doen. 
+Meerdere argumenten gaat lastig om te schrijven. Na de tweede keer snap ik het al beter. Zit nog iets wat ik met meerdere argumenten niet begrijp. 
+Die schakeling heb ik nog niet in mijn hoofd. Ga verder met het volgende onderwerp en dan herhaal ik dit onderwerp morgen weer. De basisgedachte begrijp ik nu. 
+Hopelijk morgen weer een stapje verder.
+
 No argument
 function wallPainter() {
 alert ('The wall has been painted red');  
@@ -26,9 +34,7 @@ function Moving (){
 
 
     // Multiple arguments// 
-Benieuwd hoe jullie dit doen? Dit vond ik het lastigste onderwerp. Heb het vanochtend weer een keer herhaalt en ga dat de komende dagen weer doen. 
-Meerdere argumenten gaat lastig om te schrijven. Na de tweede keer snap ik het al beter. Zit nog iets wat ik met meerdere argumenten niet begrijp. 
-Die schakeling heb ik nog niet in mijn hoofd. Ga verder met het volgende onderwerp en dan herhaal ik dit onderwerp morgen weer. De basisgedachte begrijp ik nu.
+
 
 
    function walls() {
