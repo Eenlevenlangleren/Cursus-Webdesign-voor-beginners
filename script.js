@@ -1,7 +1,13 @@
-console.log("Hallo Winc Academy Studenten");
+console.log ("Hello Winc Academy students")
 
-//"Dit is een grote som die je zo niet ziet in de terminal, comment on-line"
-/*let multiplication = 1230941 * 1823794;
-console.log ("multiplication:", multiplication);
-let division = 637263 / 54;
-console.log ("division:", division); ook dit zie je zo niet in de terminal, comment geblockt*/
+//"This is a large sum". Comments worden niet gelezen door de javascript-engine.
+
+/*
+let multiplication = 1230941 * 1823794;
+console.log(multiplication)
+
+let subtraction = 637263 / 54;
+console.log(subtraction)*/
+
+Ik kan het resultaat van de som niet zien. Door blockcomment.
+
