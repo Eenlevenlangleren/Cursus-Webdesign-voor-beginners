@@ -36,7 +36,7 @@ const color = grey;
 paintWall(south-east, grey);
 paintWall(north, orange)
 
-/ *The order of the arguments matters in some cases. 3*4 is the same as 4*3. In sentences you get a different sentence.
-The north wall has been painted orange, or the orange wall has been painted north.
+/ *The order of the arguments matters in some cases. 3*4 is the same as 4*3. in dit geval in calling a function niet erg als de arguments, parameters wijzigen.
+In sentences you get a different sentence. The north wall has been painted orange, or the orange wall has been painted north. wijzigen van parameters in calling a function heeft dan een ander effect op de zinsopbouw.
 
 
